@@ -7,4 +7,6 @@ mvn install
 jar -jar target/spring-animated-banner-0.0.1-SNAPSHOT.jar
 ```
 
+## DEMO
+
 ![Alt text](https://github.com/wonwoo/spring-animated-banner/blob/master/image/banner_image.gif)
